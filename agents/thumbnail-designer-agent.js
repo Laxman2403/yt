@@ -1,4 +1,4 @@
-const sharp = require('sharp');
+// const sharp = require('sharp');
 const path = require('path');
 const fs = require('fs').promises;
 const { Logger } = require('../utils/logger');
